@@ -1,14 +1,14 @@
-Source: kodi-game-libretro-mame2015
+Source: kodi-game-libretro-mame2014
 Priority: extra
 Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-mame2015 (>= 0.160.0) | mame2015 (>= 0.160.0)
+               libretro-mame2014 (>= 0.160.0) | mame2014 (>= 0.160.0)
 Standards-Version: 3.9.8
 Section: libs
 
-Package: kodi-game-libretro-mame2015
+Package: kodi-game-libretro-mame2014
 Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro

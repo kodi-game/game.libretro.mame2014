@@ -9,7 +9,7 @@ on:
 
 jobs:
   default:
-    if: github.repository == 'kodi-game/game.libretro.mame2015'
+    if: github.repository == 'kodi-game/game.libretro.mame2014'
     runs-on: ubuntu-latest
 
     steps:

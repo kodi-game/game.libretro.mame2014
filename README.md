@@ -10,7 +10,7 @@ MAME
 
 ### Icon
 
-![Arcade (MAME 2015) icon](game.libretro.mame2015/resources/icon.png)
+![Arcade (MAME 2015) icon](game.libretro.mame2014/resources/icon.png)
 
 ### Fanart
 

@@ -1,10 +1,10 @@
-# game.libretro.mame2015 language file
-# Addon Name: game.libretro.mame2015
-# Addon id: game.libretro.mame2015
+# game.libretro.mame2014 language file
+# Addon Name: game.libretro.mame2014
+# Addon id: game.libretro.mame2014
 # Addon Provider: libretro
 msgid ""
 msgstr ""
-"Project-Id-Version: game.libretro.mame2015\n"
+"Project-Id-Version: game.libretro.mame2014\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 17:45i\n"
 "PO-Revision-Date: 2019-08-24 17:45i\n"
@@ -24,9 +24,7 @@ msgctxt "Addon Description"
 msgid "Late 2014/Early 2015 version of MAME (0.160-ish) for libretro. Compatible with MAME 0.160 sets."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
+# Empty string with ID 30000
 
 msgctxt "#30001"
 msgid "Read configuration"

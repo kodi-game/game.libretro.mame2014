@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="game.libretro.mame2015"
+<addon id="game.libretro.mame2014"
 		name="Arcade (MAME 2015)"
-		version="0.160.0.29"
+		version="0.160.0.1"
 		provider-name="MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -17,7 +17,7 @@
 	<extension point="xbmc.addon.metadata">
 		<license>MAME</license>
 		<platform>@PLATFORM@</platform>
-		<source>https://github.com/kodi-game/game.libretro.mame2015</source>
+		<source>https://github.com/kodi-game/game.libretro.mame2014</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
