@@ -4,7 +4,7 @@
 
 Late 2014/Early 2015 version of MAME (0.160-ish) for libretro. Compatible with MAME 0.160 sets.
 
-This add-on has been replaced by MAME2015.
+This add-on has been replaced by MAME 2015.
 
 ### License
 
