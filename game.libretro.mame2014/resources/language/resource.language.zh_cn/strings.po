@@ -18,12 +18,16 @@ msgstr ""
 "X-Generator: Weblate 4.17\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (MAME 2015)"
+msgid "Arcade (MAME 2014)"
 msgstr "街机（MAME 2015）"
 
 msgctxt "Addon Description"
 msgid "Late 2014/Early 2015 version of MAME (0.160-ish) for libretro. Compatible with MAME 0.160 sets."
 msgstr "2014年末/2015年初 libretro 版的 MAME（0.160-ish）。兼容MAME 0.160。"
+
+msgctxt "Addon Lifecyclestate"
+msgid "This add-on has been replaced by MAME 2015."
+msgstr ""
 
 msgctxt "#30000"
 msgid "Settings"

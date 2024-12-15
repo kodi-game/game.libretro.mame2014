@@ -17,11 +17,15 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (MAME 2015)"
+msgid "Arcade (MAME 2014)"
 msgstr ""
 
 msgctxt "Addon Description"
 msgid "Late 2014/Early 2015 version of MAME (0.160-ish) for libretro. Compatible with MAME 0.160 sets."
+msgstr ""
+
+msgctxt "Addon Lifecyclestate"
+msgid "This add-on has been replaced by MAME 2015."
 msgstr ""
 
 msgctxt "#30000"
